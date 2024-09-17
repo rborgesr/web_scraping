@@ -1,4 +1,4 @@
-## Projeto de Web Scraping - MyAnimeList 🎥
+## 🎥Projeto de Web Scraping - MyAnimeList 🎥
 Este projeto realiza a extração de dados diretamente das páginas do site MyAnimeList (sem o uso de APIs), utilizando técnicas de web scraping para coletar informações detalhadas sobre os animes.
 
 ## 📋 Visão Geral
