@@ -5,7 +5,7 @@ Este projeto realiza a extração de dados diretamente das páginas do site MyAn
 
 O objetivo é capturar dados de animes como títulos, gêneros, notas, sinopse e número de episódios, organizando essas informações para facilitar a análise e o estudo do conteúdo.
 
-## Funcionalidades:
+## Funcionalidades
 
 Extração de dados de animes diretamente do HTML das páginas do MyAnimeList.
 Tratamento e limpeza de dados com Pandas para organizar as informações.
