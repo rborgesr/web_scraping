@@ -31,9 +31,13 @@ Número de Episódios
 Sinopse
 
 2. Limpeza e Tratamento
-Após a extração, os dados são organizados em DataFrames com o Pandas. São aplicados processos de:
+Após a extração, os dados são organizados em DataFrames com o Pandas.
+
+São aplicados processos de:
+
 
 Limpeza: Remoção de dados incompletos ou inválidos.
+
 Formatação: Padronização de colunas, como gêneros e notas, para facilitar a análise.
 
 3. Armazenamento dos Dados
