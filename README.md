@@ -49,7 +49,10 @@ CSV: Formato tabular, útil para análises no Excel ou ferramentas de visualiza�
 ## 📊 Resultados Esperados
 Após a execução do script, os dados de animes serão exportados em formatos JSON e CSV. A partir desses dados, podem ser feitas consultas e análises detalhadas com Python, permitindo:
 
+Uma série deverificações de informação, rankings de produtores, ranking de médias e etc.
+
 Geração de relatórios dinâmicos.
+
 Criação de gráficos que mostram, por exemplo, a distribuição de gêneros, pontuações médias e a quantidade de episódios por anime.
 
 ## 🔧 Requisitos
